@@ -20,3 +20,6 @@ Depending on the statuses of these streams and the bot's submission history, the
 
 ##Installing
 To use this script, download main.py file and any dependencies for the appropriate bot. Using cron job, windows task scheduler, etc run the script at any frequency which suits you. Personally, I am using a scheduler on heroku to run the script every 10 minutes.
+
+##License
+The code is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
